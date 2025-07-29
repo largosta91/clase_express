@@ -25,6 +25,11 @@ const products=[
       title: "Robot aspiradora samsung",
       price: 750000,
       id: 4
+    },
+          {
+      title: "tv 4k samsung 85 pulgadas",
+      price: 4000000,
+      id: 5
     }
 ]
 // Creamos una función que nos permita obtener (TODOS) los productos
